@@ -34,7 +34,7 @@ Antes de seguir los siguientes pasos, el único requisito es que tengas una cuen
 
     *No te sorprendas cuando cierras la ventana de google Colab tus archivos desaparezcan, ya que una vez se cierra el entorno, la plataforma limpia todos los datos que pudiste haber cargado, esto al final no te va a servir de mucho ya que la información la tenemos cargada en google sheets*
 
-* Si abrimos el archivo `dataSunat` de google sheets que hemos generado previamente podemos observar que ya se encuentra con la data cargada, disponible para explotarlo con Looker Studio!!!.
+* Abrimos el archivo `dataSunat` de google sheets que hemos generado previamente podemos observar que ya se encuentra con la data cargada, disponible para explotarlo con Looker Studio!!!.
 
     <image src="images/datasunat.jpg" alt="Ejecutar Celda">
 
